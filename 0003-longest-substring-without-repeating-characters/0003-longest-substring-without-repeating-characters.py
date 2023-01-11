@@ -9,3 +9,15 @@ class Solution:
             res = max(res,len(str_list))
             
         return res
+    
+class Solution2:
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        seen = {}
+        ret = 0
+        p = -1
+        for i, c in enumerate(s):
+            if c in seen and seen[c] > p:
+                p = seen[c]
+            seen[c] = i
+            ret = max(ret, i - p)
+        return ret
