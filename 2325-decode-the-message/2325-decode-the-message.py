@@ -9,7 +9,7 @@ class Solution:
                 i += 1
             if i > 26:
                 break
-        res = []
+        res = ''
         for m in message:
-            res.append(d[m])
-        return ''.join(res)
+            res += d[m]
+        return res
