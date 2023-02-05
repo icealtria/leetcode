@@ -1,18 +1,17 @@
 class Solution {
 public:
     string convert(string s, int numRows) {
-        if (numRows == 1) return s;
-        vector<string> rows(numRows);
-        int curRow = 0;
-        bool goingDown = false;
-        for (char c : s) {
-            rows[curRow] += c;
-            if (curRow == 0 || curRow == numRows - 1) goingDown = !goingDown;
-            curRow += goingDown ? 1 : -1;
+        if(numRows == 1) return s;
+        string res="";
+        for(int r = 0;r < numRows;r++){
+            int incr = 2*(numRows-1);
+            for(int i = r;i<s.size();i += incr){
+                res += s[i];
+                if(r > 0 && r < numRows-1 && (i + incr - 2*r) < s.size()){
+                    res += s[i + incr - 2*r];
+                }
+            }
         }
-        
-        string ret;
-        for (string row : rows) ret += row;
-        return ret;
+        return res;
     }
 };
