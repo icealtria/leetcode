@@ -2,26 +2,27 @@ use std::collections::HashMap;
 
 impl Solution {
     pub fn total_fruit(fruits: Vec<i32>) -> i32 {
-        let mut result = 0;
-        let mut mp: HashMap<i32, i32> = HashMap::new();
-        let (mut i, mut j) = (0, 0);
-
-        while j < fruits.len() {
-            *mp.entry(fruits[j]).or_insert(0) += 1;
-
-            if mp.len() > 2 {
-                *mp.get_mut(&fruits[i]).unwrap() -= 1;
-
-                if *mp.get(&fruits[i]).unwrap() == 0 {
-                    mp.remove(&fruits[i]);
-                }
-
-                i += 1;
+        let mut prev = -1;
+        let mut prev_length = 0;
+        let mut prev_prev = -1;
+        let mut cur_max = 0;
+        let mut res = 0;
+        for fruit in fruits {
+            if fruit == prev {
+                cur_max += 1;
+                prev_length += 1;
+            } else if fruit == prev_prev {
+                std::mem::swap(&mut prev, &mut prev_prev);
+                prev_length = 1;
+                cur_max += 1
             } else {
-                result = result.max(mp.values().sum());
+                prev_prev = prev;
+                prev = fruit;
+                cur_max = prev_length + 1;
+                prev_length = 1;
             }
-            j += 1;
+            res = res.max(cur_max)
         }
-        result
+        res
     }
 }
