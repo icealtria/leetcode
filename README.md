@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/icealtria/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/icealtria/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/icealtria/leetcode/tree/master/0189-rotate-array) |
 # Hash Table
@@ -31,3 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/icealtria/leetcode/tree/master/0189-rotate-array) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/icealtria/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
