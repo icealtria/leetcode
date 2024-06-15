@@ -6,11 +6,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/icealtria/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/icealtria/leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/icealtria/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/icealtria/leetcode/tree/master/0189-rotate-array) |
 # Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/icealtria/leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/icealtria/leetcode/tree/master/0169-majority-element) |
 # Divide and Conquer
 |  |
@@ -36,3 +38,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/icealtria/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/icealtria/leetcode/tree/master/0139-word-break) |
+# String
+|  |
+| ------- |
+| [0139-word-break](https://github.com/icealtria/leetcode/tree/master/0139-word-break) |
+# Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/icealtria/leetcode/tree/master/0139-word-break) |
+# Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/icealtria/leetcode/tree/master/0139-word-break) |
