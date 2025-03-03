@@ -56,6 +56,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+<<<<<<< HEAD
+=======
+| [0004-median-of-two-sorted-arrays](https://github.com/icealtria/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/icealtria/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+>>>>>>> 081f4c0 (Update README - Topic Tags)
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/icealtria/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
 |  |
@@ -64,5 +69,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/icealtria/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/icealtria/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+<<<<<<< HEAD
+=======
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/icealtria/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/icealtria/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Simulation
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/icealtria/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+>>>>>>> 081f4c0 (Update README - Topic Tags)
 <!---LeetCode Topics End-->
