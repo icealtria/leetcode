@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/icealtria/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0134-gas-station](https://github.com/icealtria/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/icealtria/leetcode/tree/master/0135-candy) |
 | [0238-product-of-array-except-self](https://github.com/icealtria/leetcode/tree/master/0238-product-of-array-except-self) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/icealtria/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/icealtria/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -90,4 +91,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/icealtria/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/icealtria/leetcode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
