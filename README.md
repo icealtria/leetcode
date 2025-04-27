@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/icealtria/leetcode/tree/master/0013-roman-to-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/icealtria/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
 |  |
@@ -107,4 +108,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/icealtria/leetcode/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/icealtria/leetcode/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/icealtria/leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
