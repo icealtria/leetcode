@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/icealtria/leetcode/tree/master/0042-trapping-rain-water) |
+| [0151-reverse-words-in-a-string](https://github.com/icealtria/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/icealtria/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/icealtria/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/icealtria/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/icealtria/leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/icealtria/leetcode/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/icealtria/leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Trie
 |  |
 | ------- |
