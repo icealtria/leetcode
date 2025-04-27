@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/icealtria/leetcode/tree/master/0238-product-of-array-except-self) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/icealtria/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/icealtria/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/icealtria/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
 | ------- |
