@@ -1,3 +1,3 @@
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool:
-        return len({*zip(s,t)})==len({*s})==len({*t})
+        return len(set(s))==len(set(t))==len(set(zip(s,t)))
